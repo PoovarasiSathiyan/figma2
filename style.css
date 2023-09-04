@@ -1,0 +1,217 @@
+.section0{
+    width: 100%;
+    margin-top: 20px;
+}
+.div1h2{
+    font-family: Qwigley;
+    margin-left: 80px;
+    color: #FFB30E;
+    font-weight: 400;
+    font-size: 60px;
+}
+.section0{
+    display: flex;
+    justify-content: space-between;
+}
+.div1span1::before{
+    content: url(./Images/svg\ location.svg);
+
+}
+.search::before{
+    content: url(./Images/svg\ search.svg);
+    margin-left:60px;
+}
+.div1p1{
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    color: #424242;
+    margin-left: 48px;
+}
+.div1span1{
+    font-family: Open Sans;
+    font-size: 18px;
+    line-height: 25.2px;
+    font-weight: 400;
+}
+.div1span2{
+    font-family: Open Sans;
+    font-size: 18px;
+    line-height: 25.2px;
+    font-weight: 700;
+}
+.search{
+    font-family: Open Sans;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+    
+}
+.div1btn1{
+    margin-right: 160px ;
+    border-radius: 5px;
+    padding:0px 10px;
+    text-decoration: none;
+    font-size: 15px;
+    height: 35px;
+    width: 90px;
+    border: 2px solid #FFAC0D;
+    color: #FF8A00;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+}
+
+.section0 a::before{
+    content: url(./Images/svg\ contact.svg);
+    margin-right: 7px;
+}
+.yellowrect{
+    width: 100%;
+    margin-top: -10px;
+    /* position: relative; */
+}
+.leftlook{
+    font-family: Qwigley;
+    position: absolute;
+    margin-top: -320px;
+    margin-left: 100px;
+    font-size: 70px;
+    line-height: 70px;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+.leftwithin{
+    position: absolute;
+    font-family: Source Sans Pro;
+    color: #504F4F;
+    font-weight: 400;
+    size: 22px;
+    line-height: 26px;
+    margin-top: -240px;
+    margin-left: 100px;
+}
+.leftrect{
+    width: 700px;
+    height: 200px;
+    /* position: absolute; */
+    margin-top: -280px;
+    margin-left: 80px;
+}
+.leaf{
+    width: 400px;
+    height: 330px;
+    margin-top: -460px;
+    margin-left: 950px;
+}
+.delivery{
+    width: 120px;
+    Height:40px;
+    background-color: rgba(241, 114, 40, 0.10);
+    border-radius: 2px;
+    color: #F17228;
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    margin-top: -200px;
+    margin-left: 130px;
+    padding: 5px 10px;
+    position: absolute;
+}
+.pickup{
+    color: #757575;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    position: absolute;
+    margin-left: 265px;
+    margin-top: -195px;
+}
+.div1btn2{
+    padding: 10px 40px;
+    background: linear-gradient(96deg, #FF7A7A -39.64%, #F65900 135.31%);
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    position: absolute;
+    margin-top: -160px;
+    margin-left:540px;
+}
+.leftlocation{
+    padding: 8px 20px;
+    background-color: #F5F5F5;
+    width: 400px;
+    color:#9E9E9E;
+    position: absolute;
+    margin-top: -140px;
+    margin-left:120px;
+    border-radius:5px;
+}
+.delivery::before{
+    content: url(./Images/svg\ delivery.svg);
+}
+.pickup::before{
+    content:url(./Images/svg\ pickup.svg);
+}
+.leftlocation::before{
+    content:url(./Images/svg\ location1.svg);
+}
+
+
+
+
+.card1 ,.card2 ,.card3{
+    height:150px;
+    width:200px;
+    border: none !important;
+    /* font-family: Source Sans Pro !important; */
+    font-weight: 700 !important;
+}
+.card1{
+    left:190px;
+}
+
+.card2{
+    left: -26px;
+
+}
+.card3{
+    left:-240px
+}
+.card4{
+    margin-top: -298px;
+    margin-left: 930px;
+    height:190px !important;
+    width:200px;
+    
+    font-weight: 700;
+    
+}
+
+.card-footer{
+    border: none !important;
+    width:137px;
+    background: rgba(241, 114, 40, 0.20) !important;
+    
+}
+.work{
+   color: #F17228;
+   margin-top: 70px;
+}
+.sec2rect1{
+    width: 950px;
+    height:200px;
+    position: relative;
+}
+
+.sec2div1>p{
+    font-weight: 700;
+    background: linear-gradient(93deg, #FB3C00 -47.72%, #FFB800 136.81%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.sec2div1{
+    position: absolute;
+    display: flex;
+}
